@@ -6,3 +6,4 @@ Following Steps are implemented in this algorithm :
 --> So in the Void loop first finish calibration that is setting offsets and then do dmp.initialise()
 --> error is calculated and fed to the PID equation which controls the motors.
 
+![alt text](IMG_20170725_200002678.jpg)
